@@ -1,3 +1,0 @@
-server (中心化)
-
-client1 client2 client3
